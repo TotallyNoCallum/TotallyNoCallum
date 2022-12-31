@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TotallyNoCallum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there! my name is Callum.
+Im a Minecraft Player who playes on the Minecraft server; TubNet
+Twitter: @TotallyNoCallum
 
-<!---
-TotallyNoCallum/TotallyNoCallum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔴Co-Owner - Tubion, the Minecraft mod that add some cool stuff to TubNet
+Github - https://github.com/ApricotFarmer11/Tubion
+Main Download - https://modrinth.com/mod/tubion
