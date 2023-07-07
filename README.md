@@ -1,7 +1,4 @@
 - Hello there! my name is Callum.
-  - Im a Minecraft Player who playes on the Minecraft server; TubNet
-  - I sometimes do Art and Stream on Twitch
+  - Not very active here, but I do pixel art and play games
 
-- 🔴Co-Owner - Tubion, the Minecraft mod that add some cool stuff to TubNet
-  - Github - https://github.com/ApricotFarmer11/Tubion
-  - Main Download - https://modrinth.com/mod/tubion
+- @TotallyNoCallum on Twitter if you wanna contact me or some shit idk
